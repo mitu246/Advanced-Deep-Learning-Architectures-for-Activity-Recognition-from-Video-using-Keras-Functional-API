@@ -1,4 +1,5 @@
 # Advanced-Deep-Learning-Architectures-for-Activity-Recognition-from-Video-using-Keras-Functional-API
+Advanced Deep Learning Architectures for Action Recognition, Video Analysis and Classification
 
 # Motivation:
 During past couple of weeks i have been doing some research in the area of Deep Learning and its application in Computer Vision. I was working on a project where the challenge was to design a Deep Learning Model for Smart Home Applications. The motivation for the project was to detect different human actions from a video installed in a smart home, so that an activity monitor can be designed. This activity monitor would have numerous applications particularly in healthcare. Such as detecting a person's overall activity and deciding if they are doing enough to stay healthy each day.
